@@ -2,7 +2,7 @@
 
 ### 📈 GitHub Stats:
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Harlox&show_icons=true&theme=dark#tokyonight)](https://github.com/anuraghazra/github-readme-stats#tokyonight)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Harlox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#tokyonight)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Harlox&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
